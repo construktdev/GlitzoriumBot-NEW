@@ -1,0 +1,4 @@
+name: MinecraftTest
+version: '${project.version}'
+main: de.construkter.minecrafttest.MinecraftTest
+api-version: '1.21'
